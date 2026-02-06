@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "minimap.background": "#0000008b",
+        "scrollbar.shadow": "#ff000000"
+    },
+    "files.watcherExclude": {
+        "**/node_modules/**": true,
+        "**/.git/**": true,
+        "**/dist/**": true,
+        "**/build/**": true
+    },
+    "disable-hardware-acceleration": true
+
+}
