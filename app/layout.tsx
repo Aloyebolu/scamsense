@@ -1,14 +1,8 @@
 'use client';
-import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
-
-export const metadata: Metadata = {
-  title: "ScamGuard - Spot Scams Before They Spot You",
-  description: "An educational simulator to learn how to identify and avoid online scams. No data collected.",
-};
 
 export default function RootLayout({
   children,
