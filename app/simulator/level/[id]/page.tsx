@@ -1,5 +1,5 @@
-// app/simulator/level/[id]/page.tsx
 'use client';
+// app/simulator/level/[id]/page.tsx
 
 import { useState, useEffect, useCallback } from 'react';
 import { useParams, useRouter } from 'next/navigation';

@@ -1,3 +1,4 @@
+'use client';
 // app/about/page.tsx
 import Link from 'next/link';
 import { Shield, Users, BookOpen, Target, Heart, Lock } from 'lucide-react';
